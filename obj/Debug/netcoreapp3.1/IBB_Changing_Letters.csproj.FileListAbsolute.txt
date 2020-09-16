@@ -1,0 +1,13 @@
+/home/bbk/netCoreProjects/IBB_Changing_Letters/bin/Debug/netcoreapp3.1/IBB_Changing_Letters
+/home/bbk/netCoreProjects/IBB_Changing_Letters/bin/Debug/netcoreapp3.1/IBB_Changing_Letters.deps.json
+/home/bbk/netCoreProjects/IBB_Changing_Letters/bin/Debug/netcoreapp3.1/IBB_Changing_Letters.runtimeconfig.json
+/home/bbk/netCoreProjects/IBB_Changing_Letters/bin/Debug/netcoreapp3.1/IBB_Changing_Letters.runtimeconfig.dev.json
+/home/bbk/netCoreProjects/IBB_Changing_Letters/bin/Debug/netcoreapp3.1/IBB_Changing_Letters.dll
+/home/bbk/netCoreProjects/IBB_Changing_Letters/bin/Debug/netcoreapp3.1/IBB_Changing_Letters.pdb
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.csprojAssemblyReference.cache
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.AssemblyInfoInputs.cache
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.AssemblyInfo.cs
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.csproj.CoreCompileInputs.cache
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.dll
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.pdb
+/home/bbk/netCoreProjects/IBB_Changing_Letters/obj/Debug/netcoreapp3.1/IBB_Changing_Letters.genruntimeconfig.cache
